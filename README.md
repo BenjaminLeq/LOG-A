@@ -29,10 +29,10 @@ Pour ajouter un article :
 
 ![image](https://github.com/BenjaminLeq/LOG-A/assets/85110287/9b925427-22a8-44b6-93d0-38c3ee2707fe)
 
-**Note** : Pensez à écrire en HTML dans la zone de texte "Solution". Les articles sont au format HTML.
+**Note** : Pensez à écrire en HTML dans la zone de texte "*Solution*". Les articles sont au format HTML.
 
 Pour ajouter un document :
-- Copiez le chemin avec le nom de votre document dans le champ "Document",
+- Copiez le chemin avec le nom de votre document dans le champ "*Document*",
 - Cliquez sur le bouton "*Importer*" puis "*Copier le code*",
 - Collez le code dans le bloc "*Solution*",
 
@@ -47,8 +47,8 @@ Le résultat :
 ![image](https://github.com/BenjaminLeq/LOG-A/assets/85110287/0dfa48f4-2080-4ed3-8910-cd83317663c6)
 
 ## Informations
-- Pensez à installer "Adobe Reader" sur votre poste sinon vous ne pourrez pas lire les fichier PDF directement via l'application LOG-A,
-- Les documents importés sont dans le dossier "Documents", tout comme les images importées sont dans le dossier "Images",
-- Pensez à installer "Notepadd++" sinon vous ne pourrez pas modifier les articles.
+- Pensez à installer "*Adobe Reader*" sur votre poste sinon vous ne pourrez pas lire les fichier PDF directement via l'application LOG-A,
+- Les documents importés sont dans le dossier "*Documents*", tout comme les images importées sont dans le dossier "Images",
+- Pensez à installer "*Notepadd++*" sinon vous ne pourrez pas modifier les articles.
 
 
