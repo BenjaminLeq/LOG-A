@@ -1,5 +1,6 @@
 # LOG-A
-Logiciel d'article - logiciel de base de connaissance local
+Outil de base de connaissance
+
 ## Présentation
 Le logiciel se présente de la manière suivante :
 - Panneau latéral gauche : Liste des articles, bouton pour ajouter un article, barre de recherche avec bouton pour la valider, bouton pour actualiser la liste.
